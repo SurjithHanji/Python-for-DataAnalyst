@@ -1,0 +1,13 @@
+﻿Emp_id,Dept,working years,Sales,promotion using and,promotion using or,,,,,,,,
+EMP001,FINANCE,5,72704,yes,yes,,,,,,,,
+EMP002,OPERATIONS,4,44718,no,no,,,,,,use of and/or,,
+EMP003,SALES,3,35210,no,no,,,,,,,,
+EMP004,FINANCE,5,30681,yes,yes,,,,,,both,,promotion
+EMP005,OPERATIONS,6,47487,no,yes,,,,,,finacne,5>=,yes
+EMP006,OPERATIONS,2,75613,no,no,,,,,,,,
+EMP007,SALES,3,63671,no,no,,,,,,any one,,promotion
+EMP008,FINANCE,5,38966,yes,yes,,,,,,finance ,5>,yes
+EMP009,OPERATIONS,6,77052,no,yes,,,,,,,,
+EMP010,SALES,2,86570,no,no,,,,,,,,
+EMP011,SALES,3,30250,no,no,,,,,,,,
+EMP012,OPERATIONS,7,100000,no,yes,,,,,,,,
